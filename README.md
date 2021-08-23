@@ -1,8 +1,11 @@
 ### Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrooze-zeng&count_private=true)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrooze-zeng&layout=compact)](https://github.com/Mrooze-zeng)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mrooze-zeng)](https://github.com/Mrooze-zeng)
+
 
 
 
