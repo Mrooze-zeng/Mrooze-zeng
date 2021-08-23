@@ -2,6 +2,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrooze-zeng&layout=compact)](https://github.com/Mrooze-zeng)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mrooze-zeng)](https://github.com/Mrooze-zeng)
+
+
 
 <!--
 **Mrooze-zeng/Mrooze-zeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
