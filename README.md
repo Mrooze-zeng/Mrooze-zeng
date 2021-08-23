@@ -1,6 +1,4 @@
-### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrooze-zeng)](https://github.com/Mrooze-zeng/)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrooze-zeng&layout=compact)](https://github.com/Mrooze-zeng/)
